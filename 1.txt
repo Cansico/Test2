@@ -2,4 +2,3 @@ Text1
 other text
 
 newbranch text2
-
